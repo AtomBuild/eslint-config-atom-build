@@ -19,5 +19,11 @@
   "keywords": [
     "eslint",
     "eslint-config"
-  ]
+  ],
+  "devDependencies": {
+    "eslint": "^2.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^2.0.0"
+  }
 }
